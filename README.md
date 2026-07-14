@@ -15,8 +15,3 @@ Test Sharpe ranged from -0.57 to 2.58 — high year-to-year volatility, meaning 
 Core honest finding (your actual research conclusion): A simple MA crossover strategy underperforms buy-and-hold overall, is structurally disadvantaged in strong trending bull markets (lagging indicator), and even after proper walk-forward validation shows unstable, inconsistent out-of-sample performance — a legitimate, well-supported conclusion, not a failed project.
 Roadmap position: You've completed Phase 1 (working GitHub project) and are deep into Phase 2 rigor-building (robust validation methodology) — ahead of where the original plan expected you to be by this point in the summer.
 
-Immediate next actions, your choice:
-
-Update the GitHub README with the walk-forward results (I can draft the text)
-Start a second, more sophisticated project (e.g., multi-factor strategy) — next natural Phase 2 step
-Shift toward competition prep (Optiver/IMC/Jane Street puzzles) — the other Phase 2 pillar, currently untouched
